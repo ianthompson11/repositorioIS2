@@ -27,6 +27,8 @@ import pyodbc
 import os
 import socket
 
+#Modificacion a plantProtect
+
 # Define la carpeta y el nombre del archivo *************MODIFICACIONES PARA QUE GUARDE DETECCIONES
  
 print("esto es un cambio")
