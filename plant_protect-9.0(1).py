@@ -2526,7 +2526,7 @@ def perform_detection():
         print("La carpeta no contiene exactamente una imagen.")
 
 
-if __name__ == "__main__":
+if __name__ == "__main__": #Ventana principals
     app = VentanaPrincipal()
     app.mainloop()
 
